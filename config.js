@@ -1,3 +1,3 @@
 // Runtime configuration - edit this file after deploying, no rebuild needed.
 // Example: window.__FCE_API_BASE__ = "https://api.example.com/v1";
-window.__FCE_API_BASE__ = "";
+window.__FCE_API_BASE__ = "https://fuel-cost-estimator-api.vercel.app/v1";
